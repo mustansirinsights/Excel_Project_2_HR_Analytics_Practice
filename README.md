@@ -33,7 +33,15 @@ The project focuses on employee demographics, salary analysis, experience, satis
 
 ### HR Analytics Dashboard
 
+![HR Dashboard](hr_dashboard_1.png.png)
 
+![HR Analysis](hr_dashboard_2.png.png)
+
+![Additional HR Analysis](hr_dashboard_3.png.png)
+
+![HR Dashboard Analysis](hr_dashboard_4.png.png)
+
+![Detailed HR Analysis](hr_dashboard_5.png.png)
 
 ## Project File
 
